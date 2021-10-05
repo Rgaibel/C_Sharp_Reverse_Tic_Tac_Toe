@@ -1,0 +1,10 @@
+﻿==========================Exercise Checking Report==========================
+Exercise No...........: 5
+First Student Details.: 204806145 - Mor Schlesinger
+Second Student Details: 204174270 - Roi Gaibel
+Delivery Date.........: 26 - June - 2021
+Delivered In Delay....: No
+Delay Reason..........: 
+Visual Studio Version.: 2019
+Comments..............: when the logic layer (ProgressBoard inside of TicTacToeGame) recognizes that a player has won or tied, the UI (GameForm in this case) is notified by a delegate and handles the event appropriately by constructing a message box with the proper message.
+========================End Exercise Checking Report========================
